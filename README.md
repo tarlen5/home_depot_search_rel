@@ -1,10 +1,12 @@
 # Rate The Relevance Of A Search Result.
 
-## Overview In this task, we need your help determining to what extent
-a search result matches the search query that it is paired with. Your
-job is to use the rules we provide to judge how well each result
-matches the query intent. All of the items are related to home and
-garden products.
+## Overview
+
+In this task, we need your help determining to what extent a search
+result matches the search query that it is paired with. Your job is to
+use the rules we provide to judge how well each result matches the
+query intent. All of the items are related to home and garden
+products.
 
 ## We Provide
 - A Search Query
@@ -19,20 +21,21 @@ garden products.
 ## Process
 1. All search terms and result are related to home improvement,
    gardening, construction and do-it-yourself projects. Your job is to
-   understand the *intent and relevancy* of the search query. This task
-   is *not* about your opinions of the relevancy of these items.
+   understand the **intent and relevancy** of the search query. This task
+   is **not** about your opinions of the relevancy of these items.
 2. Examine the Product Description. Do not only use the product title
 to determine relevancy.
     - Focus on the following attributes when comparing the product to
 the query. e.g. Brand, Material, and Functionality. **IMPORTANT**: Brand is
 as important as the Functionality!
-3. For each query/result pair, *compare* the query with the product
+3. For each query/result pair, **compare** the query with the product
 title and image.
     - Try to understand the intent for making the search query. What
       do you think the person was looking for? Do you think the
       product satisfies the intent of this search?
 
 Decide how relevant each product is to the query using these ratings:
+
     - Irrelevant (1)
     - Partially or somewhat relevant (2)
     - Perfect match (3)
